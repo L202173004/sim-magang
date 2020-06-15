@@ -2,7 +2,7 @@
 
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class Pembimbing extends CI_Controller
+class pembimbing magang  extends CI_Controller
 {
     public function __construct()
     {
